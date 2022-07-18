@@ -10,5 +10,20 @@
 
 ```
 pip install opencv-python
+# To export notebook as pdf
+conda install -c anaconda nbconvert
 ```
+
+## Export notebook as PDF
+
+```
+brew cask install mactex
+```
+
+
+## Resources:
+
+http://etlcdb.db.aist.go.jp/download-request
+https://github.com/Orzelius/7500-unique-kana-images
+https://github.com/inoueMashuu/hiragana-dataset
 
